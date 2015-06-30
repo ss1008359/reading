@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-编写一个打印EOF值的程序 
+缂栧啓涓�涓墦鍗癊OF鍊肩殑绋嬪簭 
 */
 int main(void)
 {

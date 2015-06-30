@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdbool.h>
 /*
-��дһ�������븴�Ƶ�����ĳ��򣬲�������
-�����Ķ���ո���һ���ո����
+编写一个将输入复制到输出的程序，并将其中
+连续的多个空格用一个空格代替
 */
 int main(void)
 {
@@ -26,7 +26,7 @@ int main(void)
 } 
 
 /*
-//�鱾���� 
+//书本方法 
 #include <stdio.h>
 
 #define NONBLANK 'a'

@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
-打印华氏温度与摄氏温度对照表
+鎵撳嵃鍗庢皬娓╁害涓庢憚姘忔俯搴﹀鐓ц〃
 */ 
 int main(void)
 {

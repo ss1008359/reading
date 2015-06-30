@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-ȥ��������ĳЩ���ֻ����ʲô����
+去掉程序中某些部分会出现什么错误
 */ 
 int main(void)
 {

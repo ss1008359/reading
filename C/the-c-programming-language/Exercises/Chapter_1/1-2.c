@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-当printf函数的参数字符串包含/c时出现的情况 
+褰損rintf鍑芥暟鐨勫弬鏁板瓧绗︿覆鍖呭惈/c鏃跺嚭鐜扮殑鎯呭喌 
 */
 int main(void)
 {
